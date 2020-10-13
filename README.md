@@ -18,7 +18,8 @@ Merge timetables and find overlapping free slots of your friends and club/chapte
 
 <h3>4)Add as many timetables as you want and exit in the end to get your free slots.</h3>
 
+
 <h2>Disclaimer</h2>
 
-Feel free to fork this tool, but just make sure that you give credits to @kaushik0x7d2.
-Please add to additional feature ideas to features.txt .
+<h4>Feel free to fork this tool, but just make sure that you give credits to @kaushik0x7d2.</h4>
+<h4>Please add to additional feature ideas to features.txt .</h4>
