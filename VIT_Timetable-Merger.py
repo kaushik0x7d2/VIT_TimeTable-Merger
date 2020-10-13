@@ -42,8 +42,6 @@ while True:
             check = []
             y = y + 1
             for z in names:
-                print(z)
-                print(y)
                 if vars()[z][y] == 0:
                     check.append(z)
             print(f'Free people in slot {slot} : ', check)
