@@ -1,6 +1,9 @@
 # VIT_TimeTable-Merger
 Merge timetables and find overlapping free slots of your friends and club/chapter members.
 
+<h2>Requirements:</h2>
+
+<h4>Python (https://www.python.org/downloads/)</h4>
 
 <h2>Usage instructions:</h2>
 
