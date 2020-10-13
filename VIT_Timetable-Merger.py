@@ -2,7 +2,7 @@ names =[]
 contents = []
 while True:
     
-    a=input("Press ENTER to continue")
+    a=input("Press ENTER to continue or write exit to finish and print")
     if a=="":
         name=input("Input Name: ")
         names.append(name)
