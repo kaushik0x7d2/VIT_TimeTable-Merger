@@ -12,3 +12,6 @@ Merge timetables and find overlapping free slots of your friends and club/chapte
 
 ![alt text](https://github.com/kaushik0x7d2/VIT_TimeTable-Merger/blob/main/Pictures/select.PNG)
  
+<h3>Run the code on the prefered editor and follow the example.</h3>
+
+![alt text](https://github.com/kaushik0x7d2/VIT_TimeTable-Merger/blob/main/Pictures/example.PNG)
